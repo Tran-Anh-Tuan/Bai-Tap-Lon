@@ -1,0 +1,76 @@
+#dangnhap > li > a
+{
+	color: white;
+	padding-top: 3px;	
+}
+#dangnhap
+{
+	margin-right: 15px;
+	height: 40px;
+}
+#dangnhap >li
+{
+	margin-top: 4px;
+	border:solid 1px #1e1b1b;
+	height: 30px;
+}
+#dangnhap> li:hover >a
+{
+	color: violet;
+	
+}
+#menu > li a
+{
+	text-transform: uppercase;;
+}
+#menu_2 li:hover a
+{
+	background: #87bf33;
+}
+/*#slide3 > div
+{
+	padding-left: 40px;
+}*/
+#fm_tr,#fm_tr2  div  h3,small,h5
+{
+	color: white;
+
+}
+
+#fm_tr2 div
+{
+	background: violet;
+}
+#thongtin div p
+{
+	/*text-transform: uppercase;*/
+	color: white;
+	font-size: 18px;
+}
+#danhsach
+{
+	color: white;
+}
+#danhsach tbody tr a
+{
+	color: white;
+	text-decoration: none;
+}
+
+#footer
+{
+	color: white;
+}
+
+p
+{
+	color: white;
+}
+#timchucai button
+{
+	margin: 3px;
+}
+
+#timchucai button:first-child {
+	margin-right: 20px;
+}
